@@ -5,15 +5,6 @@
 // リーダー陣にリマインダー送る
 function sendFreedayForReminder() {
   var toMails = [
-    'rosshibonber@gmail.com',
-    'masa7898@gmail.com',
-    'sakameg@gmail.com',
-    'q.hamamura@gmail.com',
-    'kuni.eguchi@gmail.com',
-    'amybirkin61@gmail.com',
-    'minami.shining100@gmail.com',
-    'jun.beck.1oo7@gmail.com',
-    'jam.1.over.drive@gmail.com'
   ];
   var eventsText = "リーダーの皆様☆\n\n"
     + "いつもフリーデーのお時間をいただきありがとうございます！！(≧∇≦)☆\n"
